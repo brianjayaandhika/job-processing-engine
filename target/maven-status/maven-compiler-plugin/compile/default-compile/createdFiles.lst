@@ -1,0 +1,15 @@
+com/jobprocessingengine/job/JobStatus.class
+com/jobprocessingengine/processor/JobProcessor.class
+com/jobprocessingengine/processor/JobProcessingException.class
+com/jobprocessingengine/main/Main.class
+com/jobprocessingengine/worker/Worker.class
+com/jobprocessingengine/processor/EmailJobProcessor.class
+com/jobprocessingengine/coordinator/JobCoordinator.class
+com/jobprocessingengine/job/Job.class
+com/jobprocessingengine/job/JobType.class
+com/jobprocessingengine/store/JobStore.class
+com/jobprocessingengine/store/InMemoryJobStore.class
+com/jobprocessingengine/worker/WorkerPool.class
+com/jobprocessingengine/queue/InMemoryJobQueue.class
+com/jobprocessingengine/queue/JobQueue.class
+com/jobprocessingengine/processor/PrintJobProcessor.class

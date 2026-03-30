@@ -1,0 +1,4 @@
+com/jobprocessingengine/job/JobTest.class
+com/jobprocessingengine/store/InMemoryJobStoreTest.class
+com/jobprocessingengine/queue/InMemoryJobQueueTest.class
+com/jobprocessingengine/processor/JobProcessorTest.class
