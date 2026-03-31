@@ -5,20 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="831d0da4-846b-48d0-94fb-31dcaf1d5659" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/copilot-instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/session-start.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/decisions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/failure-scenarios.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/system-overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/system-overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/coordinator/JobCoordinator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/coordinator/JobCoordinator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/job/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/job/Job.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/job/JobStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/job/JobStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/processor/EmailJobProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/processor/EmailJobProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/processor/JobProcessingException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/processor/JobProcessingException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/processor/JobProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/processor/JobProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/processor/PrintJobProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/processor/PrintJobProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/queue/JobQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/queue/JobQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/store/InMemoryJobStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/store/InMemoryJobStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/store/JobStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/store/JobStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/worker/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/worker/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/worker/WorkerPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobprocessingengine/worker/WorkerPool.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
     </persistenceIdMap>
   </component>
   <component name="CopilotUserSelectedChatMode">
-    <option name="chatModeId" value="Agent" />
+    <option name="chatModeId" value="Ask" />
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
