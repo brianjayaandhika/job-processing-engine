@@ -11,4 +11,23 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class InMemoryJobStore implements JobStore {
 
+    @Override
+    public boolean save(Job job) {
+        return false;
+    }
+
+    @Override
+    public Job findById(String id) {
+        return null;
+    }
+
+    @Override
+    public JobStatus getStatus(String id) {
+        return null;
+    }
+
+    @Override
+    public boolean updateStatus(String id, JobStatus newStatus) {
+        return false;
+    }
 }
